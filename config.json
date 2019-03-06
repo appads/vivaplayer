@@ -1,0 +1,16 @@
+{
+  "lver": 1,
+  "fupate": true,
+  "apkurl": "http://www.google.com",
+  "downloadback": true,
+  "updatefromurl": true,
+  "fb_ad": {
+    "video_interstitial": "YOUR_PLACEMENT_ID",
+    "video_native_banner": "YOUR_PLACEMENT_ID"
+    "count":2
+  },
+  "adconfig":{
+    "interstitial_type":2,
+    "video_ran":3
+  }
+}
